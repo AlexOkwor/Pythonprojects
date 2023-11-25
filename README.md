@@ -1,2 +1,2 @@
 # Pythonprojects
-python class
+repo for python class projects.
